@@ -6,9 +6,13 @@ p{
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .hero{
-    background: #1d2026;
-    min-height: 100vh;
+    background: #131f38;
     width: 100%;
     color: #fff;
     position: relative;
@@ -17,13 +21,13 @@ p{
 .btn {
  padding: 1rem 2rem;
  font-weight: 700;
- background: #1d2026;
- color: blueviolet;
+ background: #131e34;
+ color: rgb(6, 130, 178);
  border-radius: .5rem;
- border-bottom: 2px solid blueviolet;
- border-right: 2px solid blueviolet;
- border-top: 2px solid white;
- border-left: 2px solid white;
+ border-bottom: 2px solid rgb(23, 50, 169);
+ border-right: 2px solid rgb(23, 50, 169);
+ border-top: 2px solid #28447d;
+ border-left: 2px solid #28447d;
  transition-duration: 1s;
  transition-property: border-top, 
     border-left, 
@@ -33,11 +37,11 @@ p{
 }
 
 .btn:hover {
- border-top: 2px solid blueviolet;
- border-left: 2px solid blueviolet;
- border-bottom: 2px solid rgb(238, 103, 238);
- border-right: 2px solid rgb(238, 103, 238);
- box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px;
+ border-top: 2px solid rgb(34, 31, 208);
+ border-left: 2px solid rgb(34, 31, 208);
+ border-bottom: 2px solid rgb(38, 107, 226);
+ border-right: 2px solid rgb(38, 107, 226);
+ box-shadow: rgba(54, 89, 246, 0.4) 5px 5px, rgba(54, 89, 246, 0.4) 10px 10px, rgba(54, 89, 246, 0.4) 15px 15px;
 }
 
 .button {
