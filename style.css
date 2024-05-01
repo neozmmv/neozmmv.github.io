@@ -12,6 +12,12 @@ body {
     margin: 0;
     padding: 0;
 }
+.cor{
+    background-color: #28447d;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
 
 .hero{
     background: #131f38;
