@@ -1,0 +1,97 @@
+h1{
+    font-family: Roboto;
+    font-size: px;
+}
+
+#div1{
+    background-color: rgb(22, 37, 103);
+    font-size: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: Roboto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0px;
+    color: white;
+}
+.divalign{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text{
+    font-family: Roboto;
+    font-size: 36px;
+}
+
+#logo{
+    width: 300px;
+}
+#logodiv{
+    background-color: #28447d;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}
+.py{
+    margin-top: 125px;
+}
+.pytext{
+    font-family: Roboto;
+    font-size: 36px;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    display: flex;
+    top: 100px;
+    color: white
+}
+
+.button{
+    font-family: Roboto;
+    font-weight: bold;
+    box-shadow: 5px 5px 5px rgb(0,0,0,0.5);
+    border: none;
+    display: flex;
+    background-color: rgb(223, 187, 7);
+    color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 26px;
+    transition: opacity 0.2s;
+    position: relative;
+    top: 28px;
+}
+.button:hover{
+    opacity: 0.7;
+}
+.button:active{
+    opacity: 0.5;
+}
+#bloco{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    margin-top: 200px;
+}
+#p1{
+    font-family: Roboto;
+    margin-left: 220px;
+    margin-top: -200px;
+}
+#txt1{
+    text-align: center;
+}
+
+body{
+    background-color: #131f38;
+    margin:0px;
+}
