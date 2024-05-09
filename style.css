@@ -29,6 +29,7 @@ body {
 .btn {
  padding: 1rem 2rem;
  font-weight: 700;
+ font-family: Roboto;
  background: #131e34;
  color: rgb(6, 130, 178);
  border-radius: .5rem;
